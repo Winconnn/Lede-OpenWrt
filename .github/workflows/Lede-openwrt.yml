@@ -31,7 +31,7 @@ on:
 #    - cron: 0 8 */9 * *
 
 
-点☆Star触发开始编译
+#点☆Star触发开始编译
   watch:
     types: started
 
